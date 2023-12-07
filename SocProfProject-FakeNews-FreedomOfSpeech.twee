@@ -1,0 +1,192 @@
+:: StoryTitle
+Soc Prof Project - Fake News
+
+
+:: StoryData
+{
+  "ifid": "85FBF0ED-EA6E-494C-8DC4-6DA204EECEBE",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "It Begins",
+  "zoom": 1
+}
+
+
+:: An article about social media censorship {"position":"475,1550","size":"100,100"}
+You read the article, and it basically states that Elon Musk has purchased Twitter with the intent to rid the platform of censorship, and bring freedom speech to the platform.
+
+Intrigued, you do some more research and find that Elon Musk introduced a form of censorship to the platform by suppressing users who have not purchased Twitter Blue.
+
+Frusturated you head to [[The Wiki on freedom of speech]]
+
+
+:: CNN {"position":"700,650","size":"100,100"}
+The headline on CNN reads “Special counsel to use Trump’s continued embrace of January 6 rioters against him at trial."
+
+“Wait, but the last headline on FOX News implied that Trump was against the riot, but this makes it seem like he isn’t upset that it happened."
+
+You turn off the TV.
+
+[[TV Off]]
+
+
+
+
+
+:: Continue listening {"position":"450,1300","size":"100,100"}
+You continue listening to him talk for another hour, and ultimately you leave with a new rifle, $1000 worth of ammunition, and a bullet proof vest. You heaed home to live out the rest of your life in fear of the government.
+
+
+Restart?
+[[Make a decision]]
+
+
+:: Fall asleep {"position":"850,1325","size":"100,100"}
+You dream many dreams that night, and when you wake up, one sticks with you. You remember it vaugely, a man was explaining to you the right of freedom of speech and that no one should have to fear censorship from the government.
+
+Suddenly it makes sense why these news stations can speak in these ways with no worries.
+
+But there has to be something more to this. Morals maybe...?
+
+Restart?
+[[Make a decision]]
+
+
+:: Fox News {"position":"700,525","size":"100,100"}
+The headline on FoX News reads “Trump alleges Pelosi turned down 10,000 soldiers ahead of Capitol riot: 'She’s responsible for Jan 6'."
+
+“Oh look at that, what are the odds. But wait, does this mean the riot was known about ahead of time? There’s no way, plenty of other news stations would argue otherwise."
+
+You change the channel to CNN.
+
+[[CNN]]
+
+
+
+
+
+:: Freedom of Speech {"position":"600,1425","size":"100,100"}
+You realize the greeter is correct, but you wonder, there has to be a line drawn at some point, right? You head on the internet to do some research about freedom of speech.
+
+You find...
+
+[[An article about social media censorship]]
+[[The Wiki on freedom of speech]]
+
+
+:: Get your news from a mixture of channels and websites {"position":"825,1050","size":"100,100"}
+You take a few months to intake news from various TV channels and websites. You feel well informed, and now its time to put that to use. Its election day. 
+
+You decide to...
+
+[[Go Vote]]
+[[Stand outside voting locations and spread your beliefs]]
+
+
+:: Go Vote {"position":"850,1200","size":"100,100"}
+You vote at your local voting location, come back home for the night and relax. In the morning, you flip between a couple of news stations. Its a bit more rowdy than usual because of the election. You think "how can these people just say these things with little regard for their listeners." Oh well its none of your conern.
+
+[[Fall asleep]]
+
+
+:: Go out and ask someone {"position":"575,1050","size":"100,100"}
+You decide the best way to get informed is to ask another common citizen. In order to find someone to ask, you head to the local...
+
+[[Gun Store]]
+[[Grocery Store]]
+
+
+
+
+:: Grocery Store {"position":"600,1175","size":"100,100"}
+You walk into a grocery store, and see the greeter. You immediately ask them their political stance and how they become informed. Slightly taken back, the greeter explains that lately they have been struggling with their poltiical opinions and is growing tired of news stations as they can't figure out what to believe or not.
+
+[[Seems familiar...]]
+
+
+:: Gun Store [Ask] {"position":"450,1175","size":"100,100"}
+You walk in to the Gun Store, and see an older man near the back of the store. You approach and ask him what he thinks of the government and how he gets his information.
+
+He says that he does not trust anyone in the government, and has come to this store to increase his provisions incase of government collapse.
+
+[[Continue listening]]
+[[Go out and ask someone]]
+
+
+:: It Begins {"position":"700,275","size":"100,100"}
+It is your duty as a citizen of this nation, as a fellow American, to be involved and knowledgeable about the state of this country, and the constant flow of news. 
+
+“Well, I better turn on the TV”
+
+You turn on your TV...
+
+
+
+[[MSNBC]]
+
+
+:: MSNBC {"position":"700,400","size":"100,100"}
+The headline on the MSNBC channel currently reads “What Mike Johnson is really hiding by blurring Jan. 6 footage."
+
+“Oh great, more about January 6th, I’m so sick of hearing about this, I thought everyone was done talking about this a year ago.”
+
+You Change the channel to Fox News...
+
+[[Fox News]]
+
+
+
+
+:: Make a decision {"position":"700,900","size":"100,100"}
+Knowing you need to become informed if you want be a good American, you decide to...
+
+[[Get your news from a mixture of channels and websites]]
+[[Go out and ask someone]]
+
+
+:: Seems familiar... {"position":"600,1300","size":"100,100"}
+You recall that this kind of thinking is what led you hear in the first place. Thinking about it again, you say to the greeter "Yea, I completely agree. It should be illegal to alter stories to favor their beliefs."
+
+The greeter responds that it is simply a matter of [[Freedom of Speech]]
+
+
+
+
+:: Stand outside voting locations and spread your beliefs {"position":"975,1050","size":"100,100"}
+You go to a local voting location, and stand around explaining how people should make their decision. One person starts getting very annoyed, and asks you to stop trying to rig the vote. Another man who just recently agreed with you, argues that you have the right to, because of freedom of speech.
+
+[[You realize]]
+
+
+:: TV Off {"position":"700,775","size":"100,100"}
+“I’m tired of all of this back and forth, what even is real at this point. If one point always counters another point, is there even an absolute truth?
+
+You have started to question the validity of what you hear from what are commonly “trusted” news sources by many Americans. Welcome, its time to explore these thoughts deeper.
+
+[[Make a decision]]
+
+
+
+:: The Wiki on freedom of speech {"position":"725,1550","size":"100,100"}
+The wiki defines freedom of speech as "a principle that supports the freedom of an individual or a community to articulate their opinions and ideas without fear of retaliation."
+
+You realize that maybe the news stations have just been utilizing their freedom speech all along.
+
+But if this is the case, then who can we trust to get our news from...?
+
+
+Restart?
+[[Make a decision]]
+
+
+:: You head home {"position":"975,1300","size":"100,100"}
+Satisfied with the work you have done for the day, you wonder if any news station is currently hiring...
+
+Restart?
+[[Make a decision]]
+
+
+:: You realize {"position":"975,1175","size":"100,100"}
+You realize this man is right. You do have the right to say whatever you want. You drive around to 5 more voting locations throughout the day doing the same thing, getting more and more vocal as you progress. You anger many people, and finally
+
+[[You head home]]
